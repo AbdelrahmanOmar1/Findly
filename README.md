@@ -473,9 +473,7 @@ Quality assurance requires testing at every level to catch issues before product
 
 ## 🙏 Acknowledgments
 
-** build with DevOps Team special Docker Team **
+**build with DevOps Team special Docker Team**
 
----
 
-*Built with ❤️ for demonstrating modern DevOps practices and cloud-native development*
 
