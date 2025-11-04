@@ -16,7 +16,7 @@
 
 **Enterprise-grade e-commerce price comparison platform with complete cloud-native DevOps implementation**
 
-PricePointScout is a production-ready, scalable price comparison service that demonstrates modern software engineering practices from development to deployment. This project showcases a complete DevOps pipeline with multi-cloud infrastructure, container orchestration, and automated CI/CD workflows.
+Findly is a production-ready, scalable price comparison service that demonstrates modern software engineering practices from development to deployment. This project showcases a complete DevOps pipeline with multi-cloud infrastructure, container orchestration, and automated CI/CD workflows.
 
 ## 🏗️ Architecture Overview
 
